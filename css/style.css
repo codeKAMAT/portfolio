@@ -1,0 +1,20 @@
+body{
+  background:url(test3.png) no-repeat center center fixed;
+  /* background-repeat: no-repeat; */
+  background-size:cover;
+  /* background-position:center; */
+
+}
+.hero{
+  color: #fff;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+  font-family: 'Revalia', cursive;
+  font-size:4em;
+  text-shadow:2px 2px #808080;
+}
+.img{
+  height:100px;
+  width: 200px;
+}
