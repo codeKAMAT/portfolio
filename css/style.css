@@ -6,7 +6,7 @@ body{
 
 }
 .hero{
-  color: #fff;
+  color:#228B22;
   text-align: center;
   margin: auto;
   margin-top: 10%;
@@ -16,5 +16,5 @@ body{
 }
 .img{
   height:100px;
-  width: 200px;
+  width: 100px;
 }
